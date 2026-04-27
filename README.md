@@ -27,6 +27,7 @@ A modern school web portal designed to manage academic activities, communication
 - HTML5
 - CSS3
 - Media (MP4 video background, images)
+- java script
 
 ---
 
