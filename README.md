@@ -1,2 +1,34 @@
-# www.tgwin.com
-Here’s a clean short version for your GitHub repo title/description:  **A modern school web portal with video background, built using HTML and CSS. It provides easy navigation to academic tools, reports, staff info, and school services with a responsive and user-friendly design.**
+# 🎓 THE GENIUS WORLD INTELLECT MASTERS
+
+A modern school web portal designed to manage academic activities, communication, and student services in a simple and accessible way.
+
+---
+
+## 📌 Features
+
+- Video background homepage
+- Clean dashboard navigation
+- Pages for:
+  - Home
+  - About
+  - Scheme of Work
+  - Staff Management
+  - Examination Question Bank
+  - Report Sheet Portal
+  - Bursary
+  - Enquiries
+  - Contact links (YouTube, WhatsApp, Gmail)
+- Responsive layout for mobile and desktop
+
+---
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+- Media (MP4 video background, images)
+
+---
+
+## 📂 Project Structure
+
